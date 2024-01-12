@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-list/static/css/main.8723103d.css",
+    "main.js": "/todo-list/static/js/main.f8b32087.js",
+    "static/media/Lemon-Regular.ttf": "/todo-list/static/media/Lemon-Regular.77a52dd3e6aebcb8858b.ttf",
+    "static/media/Untitled design.png": "/todo-list/static/media/Untitled design.ba4f383d20a4ec648fbf.png",
+    "index.html": "/todo-list/index.html",
+    "main.8723103d.css.map": "/todo-list/static/css/main.8723103d.css.map",
+    "main.f8b32087.js.map": "/todo-list/static/js/main.f8b32087.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8723103d.css",
+    "static/js/main.f8b32087.js"
+  ]
+}
